@@ -1,2 +1,3 @@
-# kinshuk
-git and github traning repository
+# kinshuk 
+
+1.git and github traning repository
